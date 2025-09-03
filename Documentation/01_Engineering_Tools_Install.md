@@ -57,7 +57,7 @@ We will use the following tools for this course:
 
 The Laboratory Projects and some Activities will be made in cooperation with the 3 students group. You will proceed:
 
-- I will give you a project/Activity template in my github account.
+- I will give you a project/Activity template in my github account: https://github.com/manelpuig/UB_Enginnering_tools.git
 - One student plays the role of `Director`. This student makes a "Fork" of the Professor's github project.
 - The `Director` accept the other students as `Collaborators`
 ![](./Images/github_collaborators.png)
