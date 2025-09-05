@@ -108,49 +108,56 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 - `Sync` your changes to your github project as explained in previous section. 
 
 **Activity Director:** Manel Puig i Vidal
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/code.png" width="200" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    a) VScode
-  </figcaption>
-</figure>
+<div style="width: 800px; margin: 0 auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <figure style="text-align: center;">
+    <img src="./Images/code.png" width="400" style="vertical-align: middle;">
+    <figcaption style="font-style: italic; font-size: 0.9em;">
+      a) VScode
+    </figcaption>
+  </figure>
 
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/pick.png" width="200" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    b) roboDK Pick cube
-  </figcaption>
-</figure>
+  <figure style="text-align: center;">
+    <img src="./Images/pick.png" width="200" style="vertical-align: middle;">
+    <figcaption style="font-style: italic; font-size: 0.9em;">
+      b) roboDK Pick cube
+    </figcaption>
+  </figure>
+</div>
 
 **Activity Student1:** Name?
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/code.png" width="300" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    a) VScode
-  </figcaption>
-</figure>
+<div style="width: 800px; margin: 0 auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <figure style="text-align: center;">
+    <img src="./Images/code.png" width="400" style="vertical-align: middle;">
+    <figcaption style="font-style: italic; font-size: 0.9em;">
+      a) VScode
+    </figcaption>
+  </figure>
 
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/pick.png" width="300" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    b) roboDK Pick cube
-  </figcaption>
-</figure>
+  <figure style="text-align: center;">
+    <img src="./Images/pick.png" width="200" style="vertical-align: middle;">
+    <figcaption style="font-style: italic; font-size: 0.9em;">
+      b) roboDK Pick cube
+    </figcaption>
+  </figure>
+</div>
+
 
 **Activity Student 2:** Name?
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/code.png" width="300" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    a) VScode
-  </figcaption>
-</figure>
+<div style="width: 800px; margin: 0 auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <figure style="text-align: center;">
+    <img src="./Images/code.png" width="400" style="vertical-align: middle;">
+    <figcaption style="font-style: italic; font-size: 0.9em;">
+      a) VScode
+    </figcaption>
+  </figure>
 
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/pick.png" width="300" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    b) roboDK Pick cube
-  </figcaption>
-</figure>
+  <figure style="text-align: center;">
+    <img src="./Images/pick.png" width="200" style="vertical-align: middle;">
+    <figcaption style="font-style: italic; font-size: 0.9em;">
+      b) roboDK Pick cube
+    </figcaption>
+  </figure>
+</div>
 
 ## Delivery Activity 1
 
