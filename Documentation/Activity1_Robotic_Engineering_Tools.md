@@ -107,10 +107,6 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 - Verify that the 2 pictures appear below. Update your name below.
 - `Sync` your changes to your github project as explained in previous section. 
 
-
-Once each student from the Laboratory subgroup has updated this github project from the Director github project, each student can upload the Activity 1 Delivery with:
-- Your github project link (something like: `https://github.com/your_username/UB_Engineering_Tools`)
-
 **Activity Director:** Manel Puig i Vidal
 <figure style="display: inline-block; text-align: center; margin: 10px;">
   <img src="./Images/code.png" width="200" style="vertical-align: middle;">
@@ -155,3 +151,8 @@ Once each student from the Laboratory subgroup has updated this github project f
     b) roboDK Pick cube
   </figcaption>
 </figure>
+
+## Delivery Activity 1
+
+Once each student from the Laboratory subgroup has updated this github project from the Director github project, each student can upload the Activity 1 Delivery with:
+- Your github project link (something like: `https://github.com/your_username/UB_Engineering_Tools`)
