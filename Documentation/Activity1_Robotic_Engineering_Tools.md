@@ -24,9 +24,9 @@ We will use the following tools for this course:
             }
         }
         ````
-        > Change the path to your python installation
+        > Change the path to your python installation you have obtained in the previous point
 
-    - Select from the lower right menu the python interpreter (Python 3.10.11)
+    - Select from the lower right menu the python interpreter (Python 3.10.11). Some modifications will be made in your `settings.json` file
 - [RoboDK](https://robodk.com/) as the simulation and programming software
     - Download and install RoboDK for your platform (Windows or Mac)
         - Open "Tools"-->"Options"-->"Python" and set the path to your python installation and python editor to VScode path
@@ -55,12 +55,14 @@ We will use the following tools for this course:
 
 # Laboratory Projects github synchronisation
 
-The Laboratory Projects and some Activities will be made in cooperation with the 3 students group. You will proceed:
+The Laboratory Projects and some Activities will be made in cooperation with the students group. You will proceed:
 
 - I will give you a project/Activity template in my github account: https://github.com/manelpuig/UB_Enginnering_tools.git
 - One student plays the role of `Director`. This student makes a "Fork" of the Professor's github project.
 - The `Director` accept the other students as `Collaborators`
 ![](./Images/github_collaborators.png)
+  > The Github project will be the `UB_Engineering_tools` in this Activity
+
 - Then the `Collaborators` will make a "fork" of the `Director`'s github project.
 - The `Collaborators` will be able to update the github `Director`'s project and participate on the project generation
 - Create in your Laptop a local desired Project/Activity folder. Open VScode in that folder.
@@ -68,7 +70,7 @@ The Laboratory Projects and some Activities will be made in cooperation with the
   ```shell
   git clone https://github.com/director_username/UB_Engineering_Tools
   ```
-  >Successives times, in TheConstruct simulation environment, you can update the project with:
+  >Successives times you can update the project with:
   ```shell
   cd UB_Engineering_Tools
   git pull
@@ -87,83 +89,69 @@ The Laboratory Projects and some Activities will be made in cooperation with the
 - You will have to enter your PAT
 - The `Director` repository is updated with the collaborator's contributions
 
-## Cooperative roboDK Activity
+## Activity 1: roboDK Pick cube with UR5e robot arm
 
 The objective of this activity is to work collaboratively on a RoboDK project:
-- utilizing GitHub within the 3 members of the Lab-Group
+- utilizing GitHub within the 2-3 members of the Lab-Group
 - Verify the Tools installation is working correctly of each student
 - The students will collaborate in github according to the indications
 - All the students have made contributions to the project
 
 For that purpose, you will make a project to pick a cube from the table with a 2FG7 gripper mounted on UR5e robot arm:
 - From FileManager, open the robodk program `Pick&Place_UR5e_students.rdk`
-- From VScode, open the python file `Pick&Place_UR5e_SW_students.py`
-- Run the python code and see how the robot arm is moving. Take a picture of roboDK screen.
+- From VScode, open the `settings.json` file and the python file `Pick&Place_UR5e_SW_students.py` on the side
+- Run the python code and see how the robot arm is moving.
+- Take a picture of roboDK screen (pick.png) and copy it to `Images` folder
+- `Sync` your changes to your github project as explained in previous section. 
+- Take picture of VScode terminal when syncronizing your changes (sync.png) and copy it to `Images` folder.
+- Verify that the 2 pictures appear below. Update your name below.
+- `Sync` your changes to your github project as explained in previous section. 
 
-Now each student from the Laboratory subgroup has to update this github project from the Group's Director. Proceed as described in previous section. Take picture of VScode terminal when syncronizing your changes.
+
+Once each student from the Laboratory subgroup has updated this github project from the Director github project, each student can upload the Activity 1 Delivery with:
+- Your github project link (something like: `https://github.com/your_username/UB_Engineering_Tools`)
 
 **Activity Director:** Name?
 <figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/settings.png" width="300" style="vertical-align: middle;">
+  <img src="./Images/code.png" width="200" style="vertical-align: middle;">
   <figcaption style="font-style: italic; font-size: 0.9em;">
-    a) VScode settings
+    a) VScode
   </figcaption>
 </figure>
 
 <figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/pick.png" width="300" style="vertical-align: middle;">
+  <img src="./Images/pick.png" width="200" style="vertical-align: middle;">
   <figcaption style="font-style: italic; font-size: 0.9em;">
-    b) Pick&Place
-  </figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/sync.png" width="300" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    c) github sync
+    b) roboDK Pick cube
   </figcaption>
 </figure>
 
 **Activity Student1:** Name?
 <figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/settings.png" width="300" style="vertical-align: middle;">
+  <img src="./Images/code.png" width="300" style="vertical-align: middle;">
   <figcaption style="font-style: italic; font-size: 0.9em;">
-    a) VScode settings
+    a) VScode
   </figcaption>
 </figure>
 
 <figure style="display: inline-block; text-align: center; margin: 10px;">
   <img src="./Images/pick.png" width="300" style="vertical-align: middle;">
   <figcaption style="font-style: italic; font-size: 0.9em;">
-    b) Pick&Place
-  </figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/sync.png" width="300" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    c) github sync
+    b) roboDK Pick cube
   </figcaption>
 </figure>
 
 **Activity Student 2:** Name?
 <figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/settings.png" width="300" style="vertical-align: middle;">
+  <img src="./Images/code.png" width="300" style="vertical-align: middle;">
   <figcaption style="font-style: italic; font-size: 0.9em;">
-    a) VScode settings
+    a) VScode
   </figcaption>
 </figure>
 
 <figure style="display: inline-block; text-align: center; margin: 10px;">
   <img src="./Images/pick.png" width="300" style="vertical-align: middle;">
   <figcaption style="font-style: italic; font-size: 0.9em;">
-    b) Pick&Place
-  </figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="./Images/sync.png" width="300" style="vertical-align: middle;">
-  <figcaption style="font-style: italic; font-size: 0.9em;">
-    c) github sync
+    b) roboDK Pick cube
   </figcaption>
 </figure>
