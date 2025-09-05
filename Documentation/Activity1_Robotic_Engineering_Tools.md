@@ -111,7 +111,7 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 Once each student from the Laboratory subgroup has updated this github project from the Director github project, each student can upload the Activity 1 Delivery with:
 - Your github project link (something like: `https://github.com/your_username/UB_Engineering_Tools`)
 
-**Activity Director:** Name?
+**Activity Director:** Manel Puig i Vidal
 <figure style="display: inline-block; text-align: center; margin: 10px;">
   <img src="./Images/code.png" width="200" style="vertical-align: middle;">
   <figcaption style="font-style: italic; font-size: 0.9em;">
