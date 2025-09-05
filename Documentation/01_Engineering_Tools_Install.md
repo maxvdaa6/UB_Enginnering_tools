@@ -96,4 +96,74 @@ The objective of this activity is to work collaboratively on a RoboDK project:
 - All the students have made contributions to the project
 
 For that purpose, you will make a project to pick a cube from the table with a 2FG7 gripper mounted on UR5e robot arm:
-- From FileManager, open the robodk program
+- From FileManager, open the robodk program `Pick&Place_UR5e_students.rdk`
+- From VScode, open the python file `Pick&Place_UR5e_SW_students.py`
+- Run the python code and see how the robot arm is moving. Take a picture of roboDK screen.
+
+Now each student from the Laboratory subgroup has to update this github project from the Group's Director. Proceed as described in previous section. Take picture of VScode terminal when syncronizing your changes.
+
+**Activity Director:** Name?
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/settings.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    a) VScode settings
+  </figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/pick.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    b) Pick&Place
+  </figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/sync.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    c) github sync
+  </figcaption>
+</figure>
+
+**Activity Student1:** Name?
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/settings.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    a) VScode settings
+  </figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/pick.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    b) Pick&Place
+  </figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/sync.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    c) github sync
+  </figcaption>
+</figure>
+
+**Activity Student 2:** Name?
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/settings.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    a) VScode settings
+  </figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/pick.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    b) Pick&Place
+  </figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="./Images/sync.png" width="300" style="vertical-align: middle;">
+  <figcaption style="font-style: italic; font-size: 0.9em;">
+    c) github sync
+  </figcaption>
+</figure>
