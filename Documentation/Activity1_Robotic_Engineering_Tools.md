@@ -115,39 +115,16 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 
 
 **Activity Student1:** Name?
-<div style="width: 800px; margin: 0 auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <figure style="text-align: center;">
-    <img src="./Images/code.png" width="400" style="vertical-align: middle;">
-    <figcaption style="font-style: italic; font-size: 0.9em;">
-      a) VScode
-    </figcaption>
-  </figure>
 
-  <figure style="text-align: center;">
-    <img src="./Images/pick.png" width="100" style="vertical-align: middle;">
-    <figcaption style="font-style: italic; font-size: 0.9em;">
-      b) roboDK Pick cube
-    </figcaption>
-  </figure>
-</div>
-
+| ![](./Images/code.png) | ![](./Images/pick.png) |
+|:----------------------------:|:--------------------------------------:|
+| *a) VScode*                 | *b) roboDK Pick cube*                 |
 
 **Activity Student 2:** Name?
-<div style="width: 800px; margin: 0 auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <figure style="text-align: center;">
-    <img src="./Images/code.png" width="400" style="vertical-align: middle;">
-    <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 25px;">
-      a) VScode
-    </figcaption>
-  </figure>
 
-  <figure style="text-align: center;">
-    <img src="./Images/pick.png" width="200" style="vertical-align: middle;">
-    <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 25px;">
-      b) roboDK Pick cube
-    </figcaption>
-  </figure>
-</div>
+| ![](./Images/code.png) | ![](./Images/pick.png) |
+|:----------------------------:|:--------------------------------------:|
+| *a) VScode*                 | *b) roboDK Pick cube*                 |
 
 ## Delivery Activity 1
 
