@@ -146,14 +146,14 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 <div style="width: 800px; margin: 0 auto; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <figure style="text-align: center;">
     <img src="./Images/code.png" width="400" style="vertical-align: middle;">
-    <figcaption style="font-style: italic; font-size: 0.9em;">
+    <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px;">
       a) VScode
     </figcaption>
   </figure>
 
   <figure style="text-align: center;">
     <img src="./Images/pick.png" width="200" style="vertical-align: middle;">
-    <figcaption style="font-style: italic; font-size: 0.9em;">
+    <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 5px;">
       b) roboDK Pick cube
     </figcaption>
   </figure>
