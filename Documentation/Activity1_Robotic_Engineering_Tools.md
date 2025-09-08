@@ -82,6 +82,7 @@ The Laboratory Projects and some Activities will be made in cooperation with the
     ```
 - To add your contributions to the project, you will proceed:
     ````shell
+    cd UB_Engineering_Tools
     git add .
     git commit -m "your_commit_message"
     git push
