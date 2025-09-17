@@ -110,7 +110,7 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 
 **Activity Director:** Víctor Nicolau Rivas
 
-| ![](./Images/sync.png) | ![](./Images/robot.png) |
+| ![](./Images/sync_V.png) | ![](./Images/robot.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
