@@ -123,7 +123,7 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 
 **Activity Student1:** Alice 
 
-| ![](./Images/.png) | ![](./Images/.png) |
+| ![](./Images/sync_Alice.png) | ![](./Images/Alice_img.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
